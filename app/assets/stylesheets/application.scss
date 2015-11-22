@@ -1,0 +1,11 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome";
+
+.navbar {
+  min-height: 80px;
+  li a {
+    padding: 30px 15px;
+  }
+}
+.main { margin-top:100px; }
